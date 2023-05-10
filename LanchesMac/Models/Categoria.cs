@@ -8,12 +8,12 @@ namespace LanchesMac.Models
     {
         [Key]
         public int CategoriaId { get; set; }
-        
+
         [StringLength(100, ErrorMessage = "O tamanho máximo é de 100 caracteres.")]
         [Required(ErrorMessage = "Informe a categoria.")]
         [Display(Name = "Nome")]
         public string CategoriaNome { get; set; }
-        
+
         [StringLength(200, ErrorMessage = "O tamanho máximo é de 200 caracteres")]
         [Required(ErrorMessage = "Informe a descrição")]
         [Display(Name = "Descrição")]
