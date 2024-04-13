@@ -17,11 +17,7 @@
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-<<<<<<< HEAD
           "C:\\Users\\eder_\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-          "C:\\Users\\eder.ribeiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> 9207cfa31a4ee33c771106d57dd2516f0ae6232c
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -51,17 +47,12 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-<<<<<<< HEAD
               "version": "[6.0.28, )"
-=======
-              "version": "[6.0.15, )"
->>>>>>> 9207cfa31a4ee33c771106d57dd2516f0ae6232c
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-<<<<<<< HEAD
               "version": "[6.0.28, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
@@ -71,39 +62,16 @@
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[6.0.28, )"
-=======
-              "version": "[6.0.15, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[6.0.15, )"
-            },
-            "Microsoft.EntityFrameworkCore.Sqlite": {
-              "target": "Package",
-              "version": "[6.0.15, )"
->>>>>>> 9207cfa31a4ee33c771106d57dd2516f0ae6232c
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-<<<<<<< HEAD
               "version": "[6.0.28, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.16, )"
-=======
-              "version": "[6.0.15, )"
-            },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Core": {
-              "target": "Package",
-              "version": "[6.0.13, )"
-            },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[6.0.13, )"
->>>>>>> 9207cfa31a4ee33c771106d57dd2516f0ae6232c
             }
           },
           "imports": [
@@ -125,11 +93,7 @@
               "privateAssets": "all"
             }
           },
-<<<<<<< HEAD
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.103\\RuntimeIdentifierGraph.json"
-=======
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
->>>>>>> 9207cfa31a4ee33c771106d57dd2516f0ae6232c
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.104\\RuntimeIdentifierGraph.json"
         }
       }
     }
