@@ -12,6 +12,7 @@ namespace LanchesMac.Controllers
         {
             _lancheRepository = lancheRepository;
         }
+
         public IActionResult List()
         {
             //var lanches = _lancheRepository.Lanches;
