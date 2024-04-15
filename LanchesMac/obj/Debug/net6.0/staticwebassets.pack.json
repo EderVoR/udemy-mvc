@@ -25,6 +25,14 @@
       "PackagePath": "staticwebassets\\images\\carousel13.jpg"
     },
     {
+      "Id": "C:\\work\\udemy-mvc\\LanchesMac\\wwwroot\\images\\carrinho-small-white.png",
+      "PackagePath": "staticwebassets\\images\\carrinho-small-white.png"
+    },
+    {
+      "Id": "C:\\work\\udemy-mvc\\LanchesMac\\wwwroot\\images\\delete.png",
+      "PackagePath": "staticwebassets\\images\\delete.png"
+    },
+    {
       "Id": "C:\\work\\udemy-mvc\\LanchesMac\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

@@ -106,10 +106,13 @@ namespace LanchesMac.Models
         {
             var total = _appDbContext.CarrinhoCompraItens
                         .Where(c => c.CarrinhoCompraId == CarrinhoCompraId)
-                        .Select(c => c.Lanche.Preco * c.Quantidade)
-                        .Sum();
+                        .Select(c => c.Lanche.Preco)
+                        .Count();
+                        //SQLite não processa o SUM 
+                        //.Select(c => c.Lanche.Preco * c.Quantidade)
+						//.Sum();
 
-            return total;
+			return total;
         }
     }
 }
