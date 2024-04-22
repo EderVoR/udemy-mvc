@@ -24,7 +24,7 @@ namespace LanchesMac.Controllers
                 .Select(l => l.Categoria.CategoriaNome)
                 .Distinct();
 
-            if (!listCategoria.Contains(categoria.Pascalize()))
+            if (String.IsNullOrEmpty(categoria)   || !listCategoria.Contains(categoria.Pascalize()))
             {
                 lanches = _lancheRepository.Lanches.OrderBy(l => l.LancheId);
                 categoriaAtual = "Todos os lanches";
@@ -45,6 +45,12 @@ namespace LanchesMac.Controllers
             };
 
             return View(lanchesListViewModel);
+        }
+
+        public IActionResult Details(int lancheId)
+        {
+            var lanche = _lancheRepository.Lanches.FirstOrDefault(l => l.LancheId == lancheId);
+            return View(lanche);
         }
     }
 }
