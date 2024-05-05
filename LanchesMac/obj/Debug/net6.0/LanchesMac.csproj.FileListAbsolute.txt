@@ -270,7 +270,6 @@ C:\dev\udemy-mvc\LanchesMac\obj\Debug\net6.0\staticwebassets.pack.json
 C:\dev\udemy-mvc\LanchesMac\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\dev\udemy-mvc\LanchesMac\obj\Debug\net6.0\scopedcss\bundle\LanchesMac.styles.css
 C:\dev\udemy-mvc\LanchesMac\obj\Debug\net6.0\scopedcss\projectbundle\LanchesMac.bundle.scp.css
-C:\dev\udemy-mvc\LanchesMac\obj\Debug\net6.0\LanchesMac.csproj.CopyComplete
 C:\dev\udemy-mvc\LanchesMac\obj\Debug\net6.0\LanchesMac.dll
 C:\dev\udemy-mvc\LanchesMac\obj\Debug\net6.0\refint\LanchesMac.dll
 C:\dev\udemy-mvc\LanchesMac\obj\Debug\net6.0\LanchesMac.pdb
@@ -558,3 +557,4 @@ C:\work\udemy-mvc\LanchesMac\bin\Debug\net6.0\Npgsql.dll
 C:\work\udemy-mvc\LanchesMac\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\dev\udemy-mvc\LanchesMac\bin\Debug\net6.0\Npgsql.dll
 C:\dev\udemy-mvc\LanchesMac\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\dev\udemy-mvc\LanchesMac\obj\Debug\net6.0\LanchesMac.csproj.Up2Date

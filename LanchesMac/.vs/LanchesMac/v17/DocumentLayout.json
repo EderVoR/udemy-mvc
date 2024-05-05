@@ -1,46 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\work\\udemy-mvc\\LanchesMac\\",
+  "WorkspaceRootPath": "C:\\dev\\udemy-mvc\\LanchesMac\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|c:\\work\\udemy-mvc\\lanchesmac\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|solutionrelative:context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|c:\\dev\\udemy-mvc\\lanchesmac\\views\\pedido\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|solutionrelative:views\\pedido\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|c:\\work\\udemy-mvc\\lanchesmac\\models\\pedidodetalhe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|solutionrelative:models\\pedidodetalhe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|c:\\dev\\udemy-mvc\\lanchesmac\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|solutionrelative:controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|c:\\work\\udemy-mvc\\lanchesmac\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|solutionrelative:models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|c:\\dev\\udemy-mvc\\lanchesmac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|c:\\work\\udemy-mvc\\lanchesmac\\views\\contato\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|solutionrelative:views\\contato\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|c:\\dev\\udemy-mvc\\lanchesmac\\controllers\\lanchecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|solutionrelative:controllers\\lanchecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|c:\\work\\udemy-mvc\\lanchesmac\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|solutionrelative:controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|c:\\work\\udemy-mvc\\lanchesmac\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|c:\\dev\\udemy-mvc\\lanchesmac\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|c:\\work\\udemy-mvc\\lanchesmac\\taghelpers\\emailtaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|solutionrelative:taghelpers\\emailtaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|c:\\dev\\udemy-mvc\\lanchesmac\\repositories\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|solutionrelative:repositories\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|c:\\work\\udemy-mvc\\lanchesmac\\views\\shared\\components\\carrinhocompraresumo\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|solutionrelative:views\\shared\\components\\carrinhocompraresumo\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|c:\\work\\udemy-mvc\\lanchesmac\\controllers\\carrinhocompracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|solutionrelative:controllers\\carrinhocompracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|c:\\work\\udemy-mvc\\lanchesmac\\views\\carrinhocompra\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|solutionrelative:views\\carrinhocompra\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|c:\\dev\\udemy-mvc\\lanchesmac\\repositories\\interfaces\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|solutionrelative:repositories\\interfaces\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,135 +42,102 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\work\\udemy-mvc\\LanchesMac\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Context\\AppDbContext.cs",
-              "ToolTip": "C:\\work\\udemy-mvc\\LanchesMac\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "Context\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T21:14:54.378Z",
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\dev\\udemy-mvc\\LanchesMac\\Views\\Pedido\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pedido\\Checkout.cshtml",
+              "ToolTip": "C:\\dev\\udemy-mvc\\LanchesMac\\Views\\Pedido\\Checkout.cshtml",
+              "RelativeToolTip": "Views\\Pedido\\Checkout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T23:35:46.907Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PedidoDetalhe.cs",
-              "DocumentMoniker": "C:\\work\\udemy-mvc\\LanchesMac\\Models\\PedidoDetalhe.cs",
-              "RelativeDocumentMoniker": "Models\\PedidoDetalhe.cs",
-              "ToolTip": "C:\\work\\udemy-mvc\\LanchesMac\\Models\\PedidoDetalhe.cs",
-              "RelativeToolTip": "Models\\PedidoDetalhe.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "C:\\dev\\udemy-mvc\\LanchesMac\\Controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PedidoController.cs",
+              "ToolTip": "C:\\dev\\udemy-mvc\\LanchesMac\\Controllers\\PedidoController.cs",
+              "RelativeToolTip": "Controllers\\PedidoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T20:56:04.437Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Pedido.cs",
-              "DocumentMoniker": "C:\\work\\udemy-mvc\\LanchesMac\\Models\\Pedido.cs",
-              "RelativeDocumentMoniker": "Models\\Pedido.cs",
-              "ToolTip": "C:\\work\\udemy-mvc\\LanchesMac\\Models\\Pedido.cs",
-              "RelativeToolTip": "Models\\Pedido.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAzwDAAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T20:51:55.37Z",
+              "WhenOpened": "2024-05-04T23:30:32.547Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\work\\udemy-mvc\\LanchesMac\\Views\\Contato\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Contato\\Index.cshtml",
-              "ToolTip": "C:\\work\\udemy-mvc\\LanchesMac\\Views\\Contato\\Index.cshtml",
-              "RelativeToolTip": "Views\\Contato\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-15T20:55:45.739Z",
+              "Title": "LancheController.cs",
+              "DocumentMoniker": "C:\\dev\\udemy-mvc\\LanchesMac\\Controllers\\LancheController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LancheController.cs",
+              "ToolTip": "C:\\dev\\udemy-mvc\\LanchesMac\\Controllers\\LancheController.cs",
+              "RelativeToolTip": "Controllers\\LancheController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAwwFEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T23:19:00.421Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ContatoController.cs",
-              "DocumentMoniker": "C:\\work\\udemy-mvc\\LanchesMac\\Controllers\\ContatoController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ContatoController.cs",
-              "ToolTip": "C:\\work\\udemy-mvc\\LanchesMac\\Controllers\\ContatoController.cs",
-              "RelativeToolTip": "Controllers\\ContatoController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T20:55:31.829Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EmailTagHelper.cs",
-              "DocumentMoniker": "C:\\work\\udemy-mvc\\LanchesMac\\TagHelpers\\EmailTagHelper.cs",
-              "RelativeDocumentMoniker": "TagHelpers\\EmailTagHelper.cs",
-              "ToolTip": "C:\\work\\udemy-mvc\\LanchesMac\\TagHelpers\\EmailTagHelper.cs",
-              "RelativeToolTip": "TagHelpers\\EmailTagHelper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T20:50:09.661Z"
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\dev\\udemy-mvc\\LanchesMac\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\dev\\udemy-mvc\\LanchesMac\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAACbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T23:15:23.311Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\work\\udemy-mvc\\LanchesMac\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\work\\udemy-mvc\\LanchesMac\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAABWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-15T20:36:25.764Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\work\\udemy-mvc\\LanchesMac\\Views\\Shared\\Components\\CarrinhoCompraResumo\\Default.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Components\\CarrinhoCompraResumo\\Default.cshtml",
-              "ToolTip": "C:\\work\\udemy-mvc\\LanchesMac\\Views\\Shared\\Components\\CarrinhoCompraResumo\\Default.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Components\\CarrinhoCompraResumo\\Default.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-15T19:42:41.811Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\work\\udemy-mvc\\LanchesMac\\Views\\CarrinhoCompra\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\CarrinhoCompra\\Index.cshtml",
-              "ToolTip": "C:\\work\\udemy-mvc\\LanchesMac\\Views\\CarrinhoCompra\\Index.cshtml",
-              "RelativeToolTip": "Views\\CarrinhoCompra\\Index.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAADcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-15T18:50:05.326Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CarrinhoCompraController.cs",
-              "DocumentMoniker": "C:\\work\\udemy-mvc\\LanchesMac\\Controllers\\CarrinhoCompraController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CarrinhoCompraController.cs",
-              "ToolTip": "C:\\work\\udemy-mvc\\LanchesMac\\Controllers\\CarrinhoCompraController.cs",
-              "RelativeToolTip": "Controllers\\CarrinhoCompraController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBUAAAAOAAAA",
+              "Title": "PedidoRepository.cs",
+              "DocumentMoniker": "C:\\dev\\udemy-mvc\\LanchesMac\\Repositories\\PedidoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PedidoRepository.cs",
+              "ToolTip": "C:\\dev\\udemy-mvc\\LanchesMac\\Repositories\\PedidoRepository.cs",
+              "RelativeToolTip": "Repositories\\PedidoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T14:39:25.078Z"
+              "WhenOpened": "2024-05-04T23:02:03.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPedidoRepository.cs",
+              "DocumentMoniker": "C:\\dev\\udemy-mvc\\LanchesMac\\Repositories\\Interfaces\\IPedidoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IPedidoRepository.cs",
+              "ToolTip": "C:\\dev\\udemy-mvc\\LanchesMac\\Repositories\\Interfaces\\IPedidoRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IPedidoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T23:00:59.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\udemy-mvc\\LanchesMac\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\dev\\udemy-mvc\\LanchesMac\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T22:57:01.372Z",
+              "EditorCaption": ""
             }
           ]
         }
