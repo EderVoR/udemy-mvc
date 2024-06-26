@@ -27,7 +27,7 @@ namespace LanchesMac.Controllers
 		[HttpPost]
 		public async Task<IActionResult> Login(LoginViewModel loginVM)
 		{
-			if(ModelState.IsValid)
+			if(!ModelState.IsValid)
 				return View(loginVM);
 
 			var user = await _userManager.FindByNameAsync(loginVM.UserName);
@@ -45,9 +45,46 @@ namespace LanchesMac.Controllers
 					return RedirectToAction(loginVM.ReturnUrl);
 				}
 			}
+			
 			ModelState.AddModelError("", "Falha ao fazer o Login!");
 			return View(loginVM);
+		}
 
+		[HttpGet]
+		public IActionResult Register()
+		{
+			return View();
+		}
+
+		[HttpPost]
+		[ValidateAntiForgeryToken]
+		public async Task<IActionResult> Register(LoginViewModel registerVM)
+		{
+			if(ModelState.IsValid)
+			{
+				var user = new IdentityUser { UserName = registerVM.UserName };
+				var result = await _userManager.CreateAsync(user, registerVM.Password);
+
+				if(result.Succeeded)
+				{
+					return RedirectToAction("Login", "Account");
+				}
+				else
+				{
+					this.ModelState.AddModelError("Registro", "Falha ao registrar o usuario");
+				}
+			}
+
+			return View(registerVM);
+		}
+
+		[HttpPost]
+		public async Task<IActionResult> Logout()
+		{
+			HttpContext.Session.Clear();
+			HttpContext.User = null;
+			await _signInManager.SignOutAsync();
+			return RedirectToAction("Index", "Home");
 		}
 	}
 }

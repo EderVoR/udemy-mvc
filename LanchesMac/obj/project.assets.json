@@ -11303,23 +11303,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\eder_\\.nuget\\packages\\": {},
+    "C:\\Users\\eder.ribeiro\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\udemy-mvc\\LanchesMac\\LanchesMac.csproj",
+      "projectUniqueName": "C:\\work\\udemy-mvc\\LanchesMac\\LanchesMac.csproj",
       "projectName": "LanchesMac",
-      "projectPath": "C:\\dev\\udemy-mvc\\LanchesMac\\LanchesMac.csproj",
-      "packagesPath": "C:\\Users\\eder_\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\udemy-mvc\\LanchesMac\\obj\\",
+      "projectPath": "C:\\work\\udemy-mvc\\LanchesMac\\LanchesMac.csproj",
+      "packagesPath": "C:\\Users\\eder.ribeiro\\.nuget\\packages\\",
+      "outputPath": "C:\\work\\udemy-mvc\\LanchesMac\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\eder_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\eder.ribeiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
