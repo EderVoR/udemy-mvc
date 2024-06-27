@@ -2,10 +2,10 @@ using LanchesMac.Context;
 using LanchesMac.Models;
 using LanchesMac.Repositories;
 using LanchesMac.Repositories.Interfaces;
+using LanchesMac.Services;
+using LanchesMac.Services.Interfaces;
 using Microsoft.AspNetCore.Identity;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Migrations.Operations;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -37,6 +37,15 @@ builder.Services.AddTransient<ICategoriaRepository, CategoriaRepository>();
 builder.Services.AddTransient<IPedidoRepository, PedidoRepository>();
 //Registra instancia do carrinho de compra
 builder.Services.AddScoped(sp => CarrinhoCompra.GetCarrinho(sp));
+builder.Services.AddScoped<ISeedUserRoleInicial, SeedUserRoleInicial>();
+
+builder.Services.AddAuthorization(options =>
+{
+    options.AddPolicy("Admin", policy =>
+    {
+        policy.RequireRole("Admin");
+    });
+});
 
 var app = builder.Build();
 
@@ -53,6 +62,8 @@ app.UseStaticFiles();
 
 app.UseRouting();
 app.UseSession();
+
+await CriarPerfisUsuarioAsync(app);
 
 app.UseAuthentication();
 app.UseAuthorization();
@@ -71,3 +82,15 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
+
+async Task CriarPerfisUsuarioAsync(WebApplication web)
+{
+    var scopedFactory = app.Services.GetService<IServiceScopeFactory>();
+
+    using (var scope = scopedFactory.CreateScope())
+    {
+        var service = scope.ServiceProvider.GetService<ISeedUserRoleInicial>();
+        service.SeedRoles();
+        service.SeedUsers();
+    }
+}

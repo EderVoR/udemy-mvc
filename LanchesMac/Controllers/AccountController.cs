@@ -40,6 +40,7 @@ namespace LanchesMac.Controllers
 				{
 					if(string.IsNullOrEmpty(loginVM.ReturnUrl))
 					{
+						await _userManager.AddToRoleAsync(user, "Member");
 						return RedirectToAction("Index", "Home");
 					}
 					return RedirectToAction(loginVM.ReturnUrl);
@@ -86,5 +87,11 @@ namespace LanchesMac.Controllers
 			await _signInManager.SignOutAsync();
 			return RedirectToAction("Index", "Home");
 		}
-	}
+
+		public IActionResult AccessDenied()
+		{
+			return View();
+		}
+
+    }
 }

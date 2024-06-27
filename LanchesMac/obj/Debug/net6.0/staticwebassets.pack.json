@@ -13,6 +13,22 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\work\\udemy-mvc\\LanchesMac\\wwwroot\\images\\Envelope-icon24.png",
+      "PackagePath": "staticwebassets\\images\\Envelope-icon24.png"
+    },
+    {
+      "Id": "C:\\work\\udemy-mvc\\LanchesMac\\wwwroot\\images\\Full-Cart-icon.png",
+      "PackagePath": "staticwebassets\\images\\Full-Cart-icon.png"
+    },
+    {
+      "Id": "C:\\work\\udemy-mvc\\LanchesMac\\wwwroot\\images\\Home-iconred.png",
+      "PackagePath": "staticwebassets\\images\\Home-iconred.png"
+    },
+    {
+      "Id": "C:\\work\\udemy-mvc\\LanchesMac\\wwwroot\\images\\adminarea.jpg",
+      "PackagePath": "staticwebassets\\images\\adminarea.jpg"
+    },
+    {
       "Id": "C:\\work\\udemy-mvc\\LanchesMac\\wwwroot\\images\\carousel11.jpg",
       "PackagePath": "staticwebassets\\images\\carousel11.jpg"
     },
@@ -29,8 +45,44 @@
       "PackagePath": "staticwebassets\\images\\carrinho-small-white.png"
     },
     {
+      "Id": "C:\\work\\udemy-mvc\\LanchesMac\\wwwroot\\images\\cart-5-16.ico",
+      "PackagePath": "staticwebassets\\images\\cart-5-16.ico"
+    },
+    {
       "Id": "C:\\work\\udemy-mvc\\LanchesMac\\wwwroot\\images\\delete.png",
       "PackagePath": "staticwebassets\\images\\delete.png"
+    },
+    {
+      "Id": "C:\\work\\udemy-mvc\\LanchesMac\\wwwroot\\images\\faleconosco1.jpg",
+      "PackagePath": "staticwebassets\\images\\faleconosco1.jpg"
+    },
+    {
+      "Id": "C:\\work\\udemy-mvc\\LanchesMac\\wwwroot\\images\\lanchevegano1.jpg",
+      "PackagePath": "staticwebassets\\images\\lanchevegano1.jpg"
+    },
+    {
+      "Id": "C:\\work\\udemy-mvc\\LanchesMac\\wwwroot\\images\\login1.jpg",
+      "PackagePath": "staticwebassets\\images\\login1.jpg"
+    },
+    {
+      "Id": "C:\\work\\udemy-mvc\\LanchesMac\\wwwroot\\images\\login_48.png",
+      "PackagePath": "staticwebassets\\images\\login_48.png"
+    },
+    {
+      "Id": "C:\\work\\udemy-mvc\\LanchesMac\\wwwroot\\images\\negado1.jpg",
+      "PackagePath": "staticwebassets\\images\\negado1.jpg"
+    },
+    {
+      "Id": "C:\\work\\udemy-mvc\\LanchesMac\\wwwroot\\images\\phone-app-icon.png",
+      "PackagePath": "staticwebassets\\images\\phone-app-icon.png"
+    },
+    {
+      "Id": "C:\\work\\udemy-mvc\\LanchesMac\\wwwroot\\images\\registro1.jpg",
+      "PackagePath": "staticwebassets\\images\\registro1.jpg"
+    },
+    {
+      "Id": "C:\\work\\udemy-mvc\\LanchesMac\\wwwroot\\images\\remove.ico",
+      "PackagePath": "staticwebassets\\images\\remove.ico"
     },
     {
       "Id": "C:\\work\\udemy-mvc\\LanchesMac\\wwwroot\\js\\site.js",
