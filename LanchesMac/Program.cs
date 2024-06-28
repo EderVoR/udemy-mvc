@@ -1,3 +1,4 @@
+using LanchesMac.Areas.Admin.Services;
 using LanchesMac.Context;
 using LanchesMac.Models;
 using LanchesMac.Repositories;
@@ -38,6 +39,7 @@ builder.Services.AddTransient<IPedidoRepository, PedidoRepository>();
 //Registra instancia do carrinho de compra
 builder.Services.AddScoped(sp => CarrinhoCompra.GetCarrinho(sp));
 builder.Services.AddScoped<ISeedUserRoleInicial, SeedUserRoleInicial>();
+builder.Services.AddScoped<RelatorioVendasService>();
 
 builder.Services.AddAuthorization(options =>
 {

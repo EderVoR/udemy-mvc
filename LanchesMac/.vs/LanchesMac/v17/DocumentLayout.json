@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\work\\udemy-mvc\\LanchesMac\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|c:\\work\\udemy-mvc\\lanchesmac\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|c:\\work\\udemy-mvc\\lanchesmac\\areas\\admin\\controllers\\adminrelatoriovendascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|solutionrelative:areas\\admin\\controllers\\adminrelatoriovendascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|c:\\work\\udemy-mvc\\lanchesmac\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|c:\\work\\udemy-mvc\\lanchesmac\\areas\\admin\\views\\adminrelatoriovendas\\relatoriovendassimples.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|solutionrelative:areas\\admin\\views\\adminrelatoriovendas\\relatoriovendassimples.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|c:\\work\\udemy-mvc\\lanchesmac\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|solutionrelative:views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|c:\\work\\udemy-mvc\\lanchesmac\\areas\\admin\\views\\adminrelatoriovendas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|solutionrelative:areas\\admin\\views\\adminrelatoriovendas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|c:\\work\\udemy-mvc\\lanchesmac\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|c:\\work\\udemy-mvc\\lanchesmac\\areas\\admin\\services\\relatoriovendasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|solutionrelative:areas\\admin\\services\\relatoriovendasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|c:\\work\\udemy-mvc\\lanchesmac\\areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|solutionrelative:areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|c:\\work\\udemy-mvc\\lanchesmac\\areas\\admin\\views\\adminpedidos\\pedidolanches.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|solutionrelative:areas\\admin\\views\\adminpedidos\\pedidolanches.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|c:\\work\\udemy-mvc\\lanchesmac\\services\\seeduserroleinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|solutionrelative:services\\seeduserroleinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|c:\\work\\udemy-mvc\\lanchesmac\\areas\\admin\\views\\adminpedidos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|solutionrelative:areas\\admin\\views\\adminpedidos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|c:\\work\\udemy-mvc\\lanchesmac\\areas\\admin\\controllers\\adminpedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79C7548-1AFF-4EA9-996E-38B8801D0AD7}|LanchesMac.csproj|solutionrelative:areas\\admin\\controllers\\adminpedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,80 +50,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\work\\udemy-mvc\\LanchesMac\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\work\\udemy-mvc\\LanchesMac\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\work\\udemy-mvc\\LanchesMac\\Areas\\Admin\\Views\\AdminRelatorioVendas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\AdminRelatorioVendas\\Index.cshtml",
+              "ToolTip": "C:\\work\\udemy-mvc\\LanchesMac\\Areas\\Admin\\Views\\AdminRelatorioVendas\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\AdminRelatorioVendas\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-27T18:11:21.802Z",
+              "WhenOpened": "2024-06-28T18:24:43.134Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\work\\udemy-mvc\\LanchesMac\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\work\\udemy-mvc\\LanchesMac\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAIBJwBYAAAB6AAAA",
+              "Title": "RelatorioVendasSimples.cshtml",
+              "DocumentMoniker": "C:\\work\\udemy-mvc\\LanchesMac\\Areas\\Admin\\Views\\AdminRelatorioVendas\\RelatorioVendasSimples.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\AdminRelatorioVendas\\RelatorioVendasSimples.cshtml",
+              "ToolTip": "C:\\work\\udemy-mvc\\LanchesMac\\Areas\\Admin\\Views\\AdminRelatorioVendas\\RelatorioVendasSimples.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\AdminRelatorioVendas\\RelatorioVendasSimples.cshtml",
+              "ViewState": "AQIAADUAAAAAAAAAAAAYwE0AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-27T14:58:55.117Z",
+              "WhenOpened": "2024-06-28T17:53:15.048Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AccessDenied.cshtml",
-              "DocumentMoniker": "C:\\work\\udemy-mvc\\LanchesMac\\Views\\Account\\AccessDenied.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\AccessDenied.cshtml",
-              "ToolTip": "C:\\work\\udemy-mvc\\LanchesMac\\Views\\Account\\AccessDenied.cshtml",
-              "RelativeToolTip": "Views\\Account\\AccessDenied.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-27T14:49:10.895Z",
+              "DocumentIndex": 0,
+              "Title": "AdminRelatorioVendasController.cs",
+              "DocumentMoniker": "C:\\work\\udemy-mvc\\LanchesMac\\Areas\\Admin\\Controllers\\AdminRelatorioVendasController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\AdminRelatorioVendasController.cs",
+              "ToolTip": "C:\\work\\udemy-mvc\\LanchesMac\\Areas\\Admin\\Controllers\\AdminRelatorioVendasController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\AdminRelatorioVendasController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T14:55:11.856Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\work\\udemy-mvc\\LanchesMac\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "C:\\work\\udemy-mvc\\LanchesMac\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAcwFoAAAAeAAAA",
+              "Title": "RelatorioVendasService.cs",
+              "DocumentMoniker": "C:\\work\\udemy-mvc\\LanchesMac\\Areas\\Admin\\Services\\RelatorioVendasService.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Services\\RelatorioVendasService.cs",
+              "ToolTip": "C:\\work\\udemy-mvc\\LanchesMac\\Areas\\Admin\\Services\\RelatorioVendasService.cs",
+              "RelativeToolTip": "Areas\\Admin\\Services\\RelatorioVendasService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAxwBwAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T14:31:20.636Z",
+              "WhenOpened": "2024-06-28T14:38:19.53Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "SeedUserRoleInicial.cs",
-              "DocumentMoniker": "C:\\work\\udemy-mvc\\LanchesMac\\Services\\SeedUserRoleInicial.cs",
-              "RelativeDocumentMoniker": "Services\\SeedUserRoleInicial.cs",
-              "ToolTip": "C:\\work\\udemy-mvc\\LanchesMac\\Services\\SeedUserRoleInicial.cs",
-              "RelativeToolTip": "Services\\SeedUserRoleInicial.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAApwDUAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T14:11:34.733Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\work\\udemy-mvc\\LanchesMac\\Areas\\Admin\\Views\\AdminPedidos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\AdminPedidos\\Index.cshtml",
+              "ToolTip": "C:\\work\\udemy-mvc\\LanchesMac\\Areas\\Admin\\Views\\AdminPedidos\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\AdminPedidos\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGkAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T13:59:11.318Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\work\\udemy-mvc\\LanchesMac\\Areas\\Admin\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\AdminController.cs",
-              "ToolTip": "C:\\work\\udemy-mvc\\LanchesMac\\Areas\\Admin\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\AdminController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Title": "PedidoLanches.cshtml",
+              "DocumentMoniker": "C:\\work\\udemy-mvc\\LanchesMac\\Areas\\Admin\\Views\\AdminPedidos\\PedidoLanches.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\AdminPedidos\\PedidoLanches.cshtml",
+              "ToolTip": "C:\\work\\udemy-mvc\\LanchesMac\\Areas\\Admin\\Views\\AdminPedidos\\PedidoLanches.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\AdminPedidos\\PedidoLanches.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T13:38:29.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminPedidosController.cs",
+              "DocumentMoniker": "C:\\work\\udemy-mvc\\LanchesMac\\Areas\\Admin\\Controllers\\AdminPedidosController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\AdminPedidosController.cs",
+              "ToolTip": "C:\\work\\udemy-mvc\\LanchesMac\\Areas\\Admin\\Controllers\\AdminPedidosController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\AdminPedidosController.cs",
+              "ViewState": "AQIAAJwAAAAAAAAAAIAwwKMAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T14:03:13.33Z",
+              "WhenOpened": "2024-06-27T21:06:41.412Z",
               "EditorCaption": ""
             }
           ]
