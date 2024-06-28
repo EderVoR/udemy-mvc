@@ -53,6 +53,10 @@
       "PackagePath": "staticwebassets\\images\\delete.png"
     },
     {
+      "Id": "C:\\work\\udemy-mvc\\LanchesMac\\wwwroot\\images\\erro1.png",
+      "PackagePath": "staticwebassets\\images\\erro1.png"
+    },
+    {
       "Id": "C:\\work\\udemy-mvc\\LanchesMac\\wwwroot\\images\\faleconosco1.jpg",
       "PackagePath": "staticwebassets\\images\\faleconosco1.jpg"
     },
@@ -83,6 +87,18 @@
     {
       "Id": "C:\\work\\udemy-mvc\\LanchesMac\\wwwroot\\images\\remove.ico",
       "PackagePath": "staticwebassets\\images\\remove.ico"
+    },
+    {
+      "Id": "C:\\work\\udemy-mvc\\LanchesMac\\wwwroot\\images\\transp1.jpg",
+      "PackagePath": "staticwebassets\\images\\transp1.jpg"
+    },
+    {
+      "Id": "C:\\work\\udemy-mvc\\LanchesMac\\wwwroot\\images\\upload2.png",
+      "PackagePath": "staticwebassets\\images\\upload2.png"
+    },
+    {
+      "Id": "C:\\work\\udemy-mvc\\LanchesMac\\wwwroot\\images\\visualizar1.jpg",
+      "PackagePath": "staticwebassets\\images\\visualizar1.jpg"
     },
     {
       "Id": "C:\\work\\udemy-mvc\\LanchesMac\\wwwroot\\js\\site.js",
